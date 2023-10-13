@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "881494930489",
+    "project_id": "nayiswflut",
+    "storage_bucket": "nayiswflut.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881494930489:android:c981543b88610a326109e8",
+        "android_client_info": {
+          "package_name": "com.example.nayiswflut"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMVt56N38fN-WItQvgo0cDjWk5S5NRhLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
